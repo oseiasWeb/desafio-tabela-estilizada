@@ -1,7 +1,9 @@
 # PROJETO TABELA ESTILIZADA (HTML+CSS)
 O projeto é um desafio do módulo de HTML & CSS básicos.  ✨
 
-[<img src="./Animacao.gif" alt="Gif Tabela Estilizada" title="Tabela Estilizada">]
+[
+    <img src="./print.jpg" alt="Imagem Tabela Estilizada" title="Tabela Estilizada">
+    ]
 
 ## Tecnologias Utilizadas
 - HTML
