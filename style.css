@@ -1,0 +1,47 @@
+.descricao-produtos-moda th{
+    background-color: #BB86FC;
+    color: white;
+    font-size: 23px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.descricao-produtos-casa th{
+    background-color: #00C4B4;
+    color: white;
+    font-size: 23px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.produtos-moda th {
+    background-color: #424250;
+    color: white;
+    font-size: 23px;
+    padding: 10px;
+    font-weight: normal;
+}
+
+.produtos-casa th {
+    background-color: #424250;
+    color: white;
+    font-size: 23px;
+    padding: 10px;
+    font-weight: normal;
+}
+
+.tabelas{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;
+}
+
+h1{
+    text-align: center;
+}
