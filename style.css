@@ -14,20 +14,13 @@
     font-weight: bold;
 }
 
-.produtos-moda th {
+.produtos-casa td,.produtos-moda td{
     background-color: #424250;
     color: white;
+    border: 15px;
     font-size: 23px;
     padding: 10px;
-    font-weight: normal;
-}
-
-.produtos-casa th {
-    background-color: #424250;
-    color: white;
-    font-size: 23px;
-    padding: 10px;
-    font-weight: normal;
+    text-align: center;
 }
 
 .tabelas{
